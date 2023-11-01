@@ -4,7 +4,7 @@ My core tech stack includes:
 - Frameworks: ReactJs, Laravel
 - DB: MySQL, MariaDB
 - Cache: Redis, Memcached
-- Environment: Linux, PHPStorm/NeoVim.
+- Environment: Linux, PHPStorm/NeoVim
 - WebServers: Nginx + Apache
 
 You can see my own [project](https://magistral-perm.ru), which I developed using this stack. When I was implementing I used also Python (Pandas), Node.Js (Puppeteer) for some hidden business features.
