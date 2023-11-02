@@ -2,6 +2,7 @@ Hi there and welcome to my GitHub page. My name is Vasiliy. I'm a fullstack deve
 My core tech stack includes:
 - Languages: Typescript, PHP
 - Frameworks: ReactJs, Laravel
+- Style: SASS, Bootstrap
 - DB: MySQL, MariaDB
 - Cache: Redis, Memcached
 - Environment: Linux, PHPStorm/NeoVim
