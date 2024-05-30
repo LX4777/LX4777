@@ -10,7 +10,7 @@ My core tech stack includes:
 
 You can see my own [project](https://magistral-perm.ru), which I developed using this stack. When I was implementing I used also Python (Pandas), Node.Js (Puppeteer) for some hidden business features.
 
-[![lx4777's codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lx4777&badges=3)](https://profile.codersrank.io/user/lx4777)
+[![lx4777's codersrank stats](ttps://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=LX4777&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/lx4777)
 
 My tech skills in time:
 ![Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lx4777)
