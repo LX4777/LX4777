@@ -1,16 +1,12 @@
-Hi there and welcome to my GitHub page. My name is Vasiliy. I'm a fullstack developer.
-My core tech stack includes:
-- Languages: Typescript, PHP
-- Frameworks: ReactJs, Laravel
+Hi there and welcome to my Github page. My name is Vasiliy. I'm a fullstack frontend developer. My core tech stack includes:
+- Languages: Typescript, PHP, a little Python
+- Frameworks/Libraries: ReactJs, Laravel, NextJs
 - Style: SASS, Bootstrap
-- DB: MySQL, MariaDB
-- Cache: Redis, Memcached
-- Environment: Linux, PHPStorm/NeoVim
-- WebServers: Nginx + Apache
+- DB: MySQL/MariaDB
 
-You can see my own [project](https://magistral-perm.ru), which I developed using this stack. When I was implementing I used also Python (Pandas), Node.Js (Puppeteer) for some hidden business features.
+You can see my own [project](https://magistral-perm.ru), which I developed using this stack.
 
-[![lx4777's codersrank stats](ttps://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=LX4777&badges=2&show-avatar=false)](https://profile.codersrank.io/user/lx4777)
+Now i am studying Go (Fiber) and PostgreSQL in my new project.
 
 My tech skills in time:
 ![Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lx4777)
