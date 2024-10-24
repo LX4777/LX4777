@@ -12,8 +12,6 @@ Now i am studying Go (Fiber) and PostgreSQL to create my new project in stack (N
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,mysql,nodejs,postgres,vite,webpack,vitest,jest)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,debian)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=phpstorm,webstorm,neovim,obsidian,postman)](https://skillicons.dev)
 
 My tech skills in time:
