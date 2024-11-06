@@ -1,4 +1,4 @@
-Hi there and welcome to my Github page. My name is Vasiliy. I'm a fullstack frontend developer. My core tech stack includes:
+Hi there and welcome to my Github page. My name is Vasiliy. I'm a fullstack frontend developer and I'm a very big fan of Laravel and React. My core tech stack includes:
 - Languages: Typescript, PHP, a little Python
 - Frameworks/Libraries: ReactJs, Laravel, NextJs
 - Style: SASS, Bootstrap
