@@ -8,7 +8,7 @@ You can see my own [project](https://magistral-perm.ru), which I developed using
 
 Now i am studying Go (Fiber) and PostgreSQL to create my new project in stack (NextJS + Fiber + PostgreSQL). It's will be awesome.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,go,css,sass,nodej,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,go,css,sass,nodejs,python)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,mysql,bootstrap,postgres,vite,webpack,vitest,jest)](https://skillicons.dev)
 
