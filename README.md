@@ -1,12 +1,12 @@
 Hi there and welcome to my Github page. My name is Vasiliy. I'm a fullstack frontend developer and I'm a very big fan of Laravel and React. My core tech stack includes:
-- Languages: Typescript, PHP, a little Python
-- Frameworks/Libraries: ReactJs, Laravel, NextJs
+- Languages: Typescript, PHP, Go, a little Python
+- Frameworks/Libraries: ReactJs, Laravel, NextJs, Fiber
 - Style: SASS, Bootstrap
-- DB: MySQL/MariaDB
+- DB: MySQL/MariaDB, PostgreSQL
 
 You can see my own [project](https://magistral-perm.ru), which I developed using this stack.
 
-Now i am studying Go (Fiber) and PostgreSQL to create my new project in stack (NextJS + Fiber + PostgreSQL). It's will be awesome.
+Now i am creating my new project in stack (NextJS + Fiber + PostgreSQL). It's will be awesome.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,go,css,sass,nodejs,python)](https://skillicons.dev)
 
