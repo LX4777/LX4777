@@ -6,4 +6,4 @@ You can see my own [project](https://magistral-perm.ru).
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,mysql,bootstrap,postgres,vite,webpack,vitest,jest)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=phpstorm,webstorm,neovim,obsidian,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,obsidian,postman)](https://skillicons.dev)
